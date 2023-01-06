@@ -1,4 +1,4 @@
-###Introduction
+### Introduction
 The increasing popularity of social media provided the opportunity to people to share their
 thoughts on the web. Twitter is one of the most popular microblogging services on which users
 create their opinions about different topics in the form of messages that are called ‘tweets’.
@@ -13,7 +13,7 @@ Our goal is to carefully inspect the people’s thoughts on Twitter using sentim
 such as natural language processing or NLP which plays a bridging role with the machine
 learning to understand humans in their Natural Language.
 
-###Project Problem Statement
+### Project Problem Statement
 The problem we are trying to solve through this project is to analyze user emotions and opinions
 expressed in tweets. Twitter allows companies, organizations and businesses to engage with
 the customers personally, to understand their audience and what they say about their brand and
